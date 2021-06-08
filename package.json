@@ -1,0 +1,23 @@
+{
+  "name": "bottega-js-footer",
+  "version": "0.1.0",
+  "description": "This module can generate a footer dynamic for JS aplications with an updated year and name.  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddSJ/bottega-js-footer.git"
+  },
+  "keywords": [
+    "generate",
+    "footer"
+  ],
+  "author": "Eduardo Sánchez <eddiekidd98@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EddSJ/bottega-js-footer/issues"
+  },
+  "homepage": "https://github.com/EddSJ/bottega-js-footer#readme"
+}
